@@ -1,0 +1,29 @@
+- git clone [endereço] shift + insert
+- git add .
+- git commit -m "texto"
+- git commit -am "texto" (git add + git commit)
+- git push
+- git pull (puxa alterações do diretorio clonado)
+- git mergetool (edita arquivo caso conflito
+- git fetch (sincroniza as branch com o servidor)
+- git checkout [nome da branch]
+- git checkout nome_da_branch (muda de branch)
+- compare (da onde vem)
+
+- git config --global user.name "Joseph"
+- git config --global user
+- git config user.name
+- git config --global --list
+
+- git init (inicia o diretorio)
+- git remote add origin https://github.com/joseluisbsa/name
+- git log --decorate
+- git log shortlog (log reduzido)
+- git log --graph
+
+- git diff (mosttra o que alterou)
+- git checkout arquivo (ctrl+z)
+- git reset HEAD~1 --hard (Desfaz as alterações depois de comitar o arquivo)
+- git reset HEAD (volta o commit)
+- git chechout -b nome (cria branch)
+- git checkout -D nome (delete branch)
